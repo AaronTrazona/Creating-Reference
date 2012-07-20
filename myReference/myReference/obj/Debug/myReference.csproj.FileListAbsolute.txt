@@ -1,0 +1,17 @@
+C:\Aaron\myReference\myReference\myReference\bin\Debug\myReference.dll
+C:\Aaron\myReference\myReference\myReference\bin\Debug\myReference.pdb
+C:\Aaron\myReference\myReference\myReference\obj\Debug\ResolveAssemblyReference.cache
+C:\Aaron\myReference\myReference\myReference\obj\Debug\myReference.dll
+C:\Aaron\myReference\myReference\myReference\obj\Debug\myReference.pdb
+\\10.1.2.213\c$\Aaron\myReference\myReference\myReference\bin\Debug\myReference.dll
+\\10.1.2.213\c$\Aaron\myReference\myReference\myReference\bin\Debug\myReference.pdb
+\\10.1.2.213\c$\Aaron\myReference\myReference\myReference\obj\Debug\ResolveAssemblyReference.cache
+\\10.1.2.213\c$\Aaron\myReference\myReference\myReference\obj\Debug\myReference.dll
+\\10.1.2.213\c$\Aaron\myReference\myReference\myReference\obj\Debug\myReference.pdb
+\\10.1.2.213\c$\Aaron\myReference\myReference\myReference\bin\Debug\Newtonsoft.Json.dll
+C:\Aaron\Aaron 10.1.2.213\Aaron\myReference\myReference\myReference\bin\Debug\myReference.dll
+C:\Aaron\Aaron 10.1.2.213\Aaron\myReference\myReference\myReference\bin\Debug\myReference.pdb
+C:\Aaron\Aaron 10.1.2.213\Aaron\myReference\myReference\myReference\bin\Debug\Newtonsoft.Json.dll
+C:\Aaron\Aaron 10.1.2.213\Aaron\myReference\myReference\myReference\obj\Debug\ResolveAssemblyReference.cache
+C:\Aaron\Aaron 10.1.2.213\Aaron\myReference\myReference\myReference\obj\Debug\myReference.dll
+C:\Aaron\Aaron 10.1.2.213\Aaron\myReference\myReference\myReference\obj\Debug\myReference.pdb
